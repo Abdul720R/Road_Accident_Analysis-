@@ -1,11 +1,11 @@
 # Road_Accident_Analysis-
 <div align="center">
   <br />
-  <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
-    <img src="./banner.png" alt="Portfolio Website Banner">
+  <a>
+    <img src="./dashboard.png" alt="Dashboard of Power BI">
   </a>
   <br />
-  <h3 align="center">Create a Stunning Developer Portfolio with Animations, Dark Mode, and Projects Showcase</h3>
+  <h3 align="center">Create a Dashboard of Power BI with meaning Full Insights</h3>
   <br />
 </div>
 
